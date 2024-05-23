@@ -1,0 +1,24 @@
+{
+    "name": "jp.lilxyzw.assetgrimoire",
+    "rootNamespace": "jp.lilxyzw.assetgrimoire",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Unity.SharpZipLib.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.sharp-zip-lib",
+            "expression": "",
+            "define": "LIL_SHADPZIPLIB"
+        }
+    ],
+    "noEngineReferences": false
+}

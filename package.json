@@ -1,0 +1,10 @@
+{
+  "name": "jp.lilxyzw.assetgrimoire",
+  "version": "0.1.0",
+  "displayName": "lilAssetGrimoire",
+  "description": "Identify missing assets.",
+  "unity": "2022.3",
+  "license": "MIT",
+  "url" : "https://github.com/lilxyzw/lilAssetGrimoire/releases/download/0.1.0/jp.lilxyzw.assetgrimoire-0.1.0.zip?",
+  "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+}
